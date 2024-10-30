@@ -11,6 +11,9 @@ fn main() {
 
 
        
+
+       
+        
         let mut input = String::new();
         
         println!("Try to guess the fruit names in this: {:?}",arr);
